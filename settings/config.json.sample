@@ -1,6 +1,6 @@
 {
-  "token": "",
-  "cmd_prefix": ">",
+  "token": "process.env.token",
+  "cmd_prefix": "process.env.prefix",
   "customcmd_prefix": ".",
   "bot_identifier": ":robot:",
   "track": false
