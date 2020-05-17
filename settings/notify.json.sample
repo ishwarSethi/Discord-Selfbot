@@ -1,7 +1,7 @@
 {
     "type": "none",
     "channel": "",
-    "bot_token": "",
+    "bot_token": "process.env.bot_token",
     "notify": "off",
     "author": ""
 }
